@@ -10,9 +10,10 @@ I try to understand the world of software engineer in enterprise, so I need to u
 
 ## Technology and concept
 - Container Orchestration
-- Open Authentication
+- Open Authentication (OAuth)
 - API Gateway
 - Monitoring
 - Microservice Testing
 - Microservice networking
 - Messaging Tools
+- Remote Procedure Call (RPC)
