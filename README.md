@@ -9,9 +9,18 @@ I try to understand the world of software engineer in enterprise, so I need to u
 - Cross Cutting Pattern
 
 ## Technology and concept
+- Container
+- Container Management
 - Container Orchestration
 - Open Authentication (OAuth)
 - API Gateway
+- Load Balancing
+- Service Discovery
+- Event Bus
+- Distributed Tracing
+- Caching
+- Data Persistence
+- Logging
 - Monitoring
 - Microservice Testing
 - Microservice networking
