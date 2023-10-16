@@ -26,3 +26,11 @@ I try to understand the world of software engineer in enterprise, so I need to u
 - Microservice networking
 - Messaging Tools
 - Remote Procedure Call (RPC)
+
+## My Experiment for this note
+- [API Gateway](https://github.com/oat431/try-api-gateway)
+- [Service Discovery](https://github.com/oat431/spb3-service-discovery)
+- [Service 1 REST](https://github.com/oat431/spb3-demo-rest-api)
+- [Service 2 GRAPHQL](https://github.com/oat431/spb3-demo-graphql-api)
+- [Service 3 WITH DB](https://github.com/oat431/spb3-dynamic-allowed-cors)
+  
