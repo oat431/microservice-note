@@ -8,6 +8,8 @@ I try to understand the world of software engineer in enterprise, so I need to u
 - Observability Patterns
 - Cross Cutting Pattern
 
+![Microservice Pattern](https://miro.medium.com/v2/resize:fit:720/format:webp/1*CKSVv4WkS8Okx572rX45HA.png)
+
 ## Technology and concept
 - Container
 - Container Management
