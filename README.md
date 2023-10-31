@@ -29,6 +29,9 @@ I try to understand the world of software engineer in enterprise, so I need to u
 - Messaging Tools
 - Remote Procedure Call (RPC)
 
+## Cloud Provider Invole
+- Amazon Web Service (AWS)
+
 ## My Experiment for this note
 - [API Gateway](https://github.com/oat431/try-api-gateway)
 - [Service Discovery](https://github.com/oat431/spb3-service-discovery)
